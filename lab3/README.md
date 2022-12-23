@@ -48,5 +48,4 @@
 ![image](https://user-images.githubusercontent.com/107550671/209199859-cde49f42-bc25-4e89-8fee-b5d08cb15f4d.png)  
 ![image](https://user-images.githubusercontent.com/107550671/209200172-f7b9021d-51bb-47ef-9296-552bdf022293.png)  
   
-  
-Выгрузите в git информационную базу (dt). Скриншоты также добавьте в репозиторий.  
+ 
