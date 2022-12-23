@@ -75,5 +75,3 @@
 ![image](https://user-images.githubusercontent.com/107550671/209165517-7fdd1d36-2139-4b7c-904d-fa0c44782fce.png)  
 ![image](https://user-images.githubusercontent.com/107550671/209165571-13a08db3-2175-46a2-a028-e8f9d1b91c57.png)  
   
-
-Выгрузите в git информационную базу (dt) и файл внешней обработки. Скриншоты также добавьте в репозиторий.  
