@@ -44,4 +44,3 @@
 
 ![image](https://user-images.githubusercontent.com/107550671/209157929-10a198c6-c238-4ac3-99d2-5546364b1fc9.png)  
 
-Выгрузить dt из базы 3 (выложить в git)  
