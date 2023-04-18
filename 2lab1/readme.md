@@ -17,9 +17,15 @@
 ![image](https://user-images.githubusercontent.com/104137750/232827435-4c015c42-2c84-41d4-8c01-6496f9eefba3.png)
 
 в Регистре Сведений (создайте новый)
+![image](https://user-images.githubusercontent.com/104137750/232834565-96f2779d-556e-4204-a0bf-771e4c2adb8d.png)
+![image](https://user-images.githubusercontent.com/104137750/232834954-de62387e-f810-448a-ba0e-a01fd65cb30e.png)
 
 Создать справочник подчиненный ПВХ для хранения вариантов значений
+![image](https://user-images.githubusercontent.com/104137750/232835169-6e53436e-6d39-4110-a70a-c66ec8e2b564.png)
 
 Добавьте в документы прихода и расхода реквизит “Характеристика” и при проведении 
 документов сохраняйте значение характеристики в соответствующий регистр (см. ЛР №3), 
 предварительно добавив туда данную характеристику как измерение
+![image](https://user-images.githubusercontent.com/104137750/232835401-a50e5472-1d53-4ec5-a99d-0aadad4f51e0.png)
+![image](https://user-images.githubusercontent.com/104137750/232835526-d7656ca4-c04a-448a-bdc0-70d48bdba73f.png)
+![image](https://user-images.githubusercontent.com/104137750/232835666-4ec166e2-73dc-46c2-a5e2-a176c0746dd1.png)
