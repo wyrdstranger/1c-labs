@@ -10,9 +10,11 @@
 ![image](https://user-images.githubusercontent.com/104137750/232826268-f832e8fb-0b32-4ccf-813c-938dd061d669.png)
 ![image](https://user-images.githubusercontent.com/104137750/232826666-1d86e3b3-b300-4a39-8189-d53997bd1597.png)
 
-
 Необходимо реализовать хранение возможных значений характеристик двумя способами:
 в табличной части Объекта-Владельца справочника;
+![image](https://user-images.githubusercontent.com/104137750/232826951-5cf9777f-e908-48fc-b4f0-8d9f7d10d825.png)
+![image](https://user-images.githubusercontent.com/104137750/232827100-3925f2f5-2a2b-4727-9381-9ae5f42b4160.png)
+![image](https://user-images.githubusercontent.com/104137750/232827435-4c015c42-2c84-41d4-8c01-6496f9eefba3.png)
 
 в Регистре Сведений (создайте новый)
 
